@@ -1,0 +1,14 @@
+{
+  "first_name": "Bhupendra",
+  "last_name": "Singh",
+  "summary": "I'm Bhupendra Singh, a senior full-stack software developer. My passion is to provide well-tested and maintainable code, pixel-perfect user interfaces, and the best user experience using the latest technologies.",
+  "about": "Experienced Senior Software Engineer with 4+ years of expertise in Node.js, AWS, Serverless, Angular, and GraphQL. Skilled in building scalable web applications using JavaScript/TypeScript. Proven track record in designing and implementing cost-effective serverless and microservices architectures for improved reliability. Committed to ongoing learning and professional growth in the dynamic field of software development.",
+  "socials": [
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/in/hafid-ziti"
+    },
+    { "name": "github", "link": "https://github.com/HafidZiti" },
+    { "name": "twitter", "link": "https://twitter.com/hafidziti" }
+  ]
+}
